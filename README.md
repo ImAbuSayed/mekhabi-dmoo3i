@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي في الليل أنادي
+> وقلبي يذوب في الهوى
+> نار الشوق تحرق فؤادي
+> أنت روحي ويا حياتي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
