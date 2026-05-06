@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mekhabi-dmoo3i/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Mekhabi Dmoo3i](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Mekhabi Dmoo3i](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
