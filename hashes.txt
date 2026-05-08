@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mekhabi Dmoo3i
+
+This log tracks the cryptographic history and versioning for the song **Mekhabi Dmoo3i** (mekhabi-dmoo3i).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:22:07.234640 | `v1` | `271a32096effc82e7211858783b3662122841d03a9d0086e457c5227c21aa879` | `da1774f9c3dcd423fc08efee5d61c96dfb46a4e7a4c9ea45051e08a0ffe2b830` | `2026-05-08_mekhabi-dmoo3i-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
